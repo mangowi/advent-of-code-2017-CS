@@ -2,7 +2,8 @@
 
 namespace AdventOfCode_2017
 {
-    public class Class1
+    public class AdventOfCode
     {
+
     }
 }
